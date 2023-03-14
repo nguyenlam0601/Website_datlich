@@ -1,0 +1,17 @@
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\BLL.deps.json
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\BLL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\ref\BLL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\BLL.pdb
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\DAL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\Model.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\DAL.pdb
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\bin\Release\net5.0\Model.pdb
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.csproj.AssemblyReference.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.AssemblyInfoInputs.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.AssemblyInfo.cs
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.csproj.CoreCompileInputs.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.csproj.CopyComplete
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\ref\BLL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\BLL\obj\Release\net5.0\BLL.pdb

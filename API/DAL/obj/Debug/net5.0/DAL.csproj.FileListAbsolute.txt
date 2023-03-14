@@ -1,0 +1,15 @@
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\bin\Debug\net5.0\DAL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\bin\Debug\net5.0\ref\DAL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\bin\Debug\net5.0\DAL.pdb
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\bin\Debug\net5.0\Model.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\bin\Debug\net5.0\Model.pdb
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\DAL\obj\Debug\net5.0\DAL.pdb

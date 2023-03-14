@@ -1,0 +1,12 @@
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\bin\Debug\net5.0\Model.deps.json
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\bin\Debug\net5.0\Model.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\bin\Debug\net5.0\ref\Model.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\bin\Debug\net5.0\Model.pdb
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\Model.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\ref\Model.dll
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\Model.pdb
+E:\Nam4-ki1\TAILIEUANGULAR\API\APIQLPhongKham\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
